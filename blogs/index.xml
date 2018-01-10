@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Afreach</title>
-    <link>https://afreach.github.io/</link>
-    <description>Recent content on Afreach</description>
+    <title>Blogs on Afreach</title>
+    <link>https://afreach.github.io/blogs/</link>
+    <description>Recent content in Blogs on Afreach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jan 2018 21:28:37 +0800</lastBuildDate>
     
-	<atom:link href="https://afreach.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://afreach.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
