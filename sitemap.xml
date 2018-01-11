@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://afreach.github.io/blogs/letters/</loc>
+    <lastmod>2018-01-11T22:56:04+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://afreach.github.io/blogs/evangelize/</loc>
     <lastmod>2018-01-10T21:28:37+08:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   
   <url>
     <loc>https://afreach.github.io/blogs/</loc>
-    <lastmod>2018-01-10T21:28:37+08:00</lastmod>
+    <lastmod>2018-01-11T22:56:04+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,7 +44,7 @@
   
   <url>
     <loc>https://afreach.github.io/</loc>
-    <lastmod>2018-01-10T21:28:37+08:00</lastmod>
+    <lastmod>2018-01-11T22:56:04+08:00</lastmod>
     <priority>0</priority>
   </url>
   
