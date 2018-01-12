@@ -4,3 +4,8 @@
   }
 }
 
+#banner::after {
+  background-color: rgb(36, 41, 67);
+  opacity: 0.7;
+  transition: opacity 2.5s ease 0.75s;
+}
