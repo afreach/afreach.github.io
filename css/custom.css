@@ -1,10 +1,7 @@
 @media screen and (max-width: 480px) {
   #header .logo span{
     display: inline-block;
-  }
-  small {
-  	font-size: 80%;
-  }
+  }  
 }
 
 #banner::after {
@@ -13,3 +10,6 @@
   transition: opacity 2.5s ease 0.75s;
 }
 
+small {
+  font-size: 80%;
+}
